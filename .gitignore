@@ -1,3 +1,4 @@
+ HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +173,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorar el entorno virtual
+venv/
+ bd9e91a (Inicializando repositorio con archivos esenciales)
